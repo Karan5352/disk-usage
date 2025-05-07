@@ -5,6 +5,9 @@
 * Folders and files are colorcoded by file type and size.
 * Supports depth and entry limiting, sorting and hidden file inclusion.
 
+| ![](assets/photo1.png) | ![](assets/photo2.png) |
+|------------------------|------------------------|
+
 ---
 
 ## Installation
