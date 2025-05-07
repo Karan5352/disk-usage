@@ -1,10 +1,11 @@
-from setuptools import setup, find_packages
+# setup.py
+from setuptools import setup
 
 setup(
     name='disk-tree-cli',
-    version='0.1.0',
-    author='Your Name',
-    author_email='you@example.com',
+    version='0.2.0',
+    author='Karan5352',
+    author_email='n/a',
     description='CLI tool to display disk usage as a color-coded tree',
     py_modules=['disk_tree'],
     install_requires=[
@@ -13,7 +14,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'disk-tree = disk_tree:main',
+            'dtree = disk_tree:main',        # shortened command
         ],
     },
     url='https://github.com/your-username/disk-tree-cli',
