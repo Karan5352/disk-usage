@@ -5,7 +5,7 @@ setup(
     name='disk-tree-cli',
     version='0.2.0',
     author='Karan5352',
-    author_email='n/a',
+    author_email='you@example.com',
     description='CLI tool to display disk usage as a color-coded tree',
     py_modules=['disk_tree'],
     install_requires=[
