@@ -1,6 +1,6 @@
 # dtree
 
-**A CLI tool that displays disk usage as a colorful, ANSI‑coded tree view**
+**A CLI tool that displays disk usage as a colorful, detailed tree view**
 
 * Folders and files are colorcoded by file type and size.
 * Supports depth and entry limiting, sorting and hidden file inclusion.
