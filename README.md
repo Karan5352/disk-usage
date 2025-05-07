@@ -5,8 +5,10 @@
 * Folders and files are colorcoded by file type and size.
 * Supports depth and entry limiting, sorting and hidden file inclusion.
 
-| ![](assets/photo1.png) | ![](assets/photo2.png) |
-|------------------------|------------------------|
+<p align="center">
+  <img src="assets/photo1.png" height="300px" style="margin-right: 10px;">
+  <img src="assets/photo2.png" height="300px">
+</p>
 
 ---
 
