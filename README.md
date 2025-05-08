@@ -16,15 +16,9 @@
 
 Using [`pipx`](https://pypa.github.io/pipx/) for isolated installation:
 
+To install pipx, follow the [official pipx instructions](https://github.com/pypa/pipx):
+
 ```bash
-# macOS (using Homebrew)
-brew install pipx
-pipx ensurepath
-
-# Other systems (or fallback)
-python3 -m pip install --user pipx
-python3 -m pipx ensurepath
-
 # Install the CLI tool
 pipx install disk-tree-cli
 ```
